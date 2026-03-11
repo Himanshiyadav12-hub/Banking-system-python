@@ -10,6 +10,10 @@ This project allows users to create accounts, login, deposit money, withdraw mon
 - Withdraw Money
 - Check Account Balance
 
+## Program Output
+
+![Program Output](output.png)
+
 ## Technologies Used
 - Python
 - SQLite
